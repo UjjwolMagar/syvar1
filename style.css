@@ -68,9 +68,9 @@ body{
     background-color: #FFB830;
     width: 4.17%; 
     height: 22.39%; 
-    top: 26.39%; 
+    top: 26.38%; 
     position: absolute;
-    left: 6.75%; 
+    left: 6.6%; 
     z-index: 2;
 }
 .top-right-bottom {
@@ -115,7 +115,7 @@ body{
     width: 50%; 
     height: 4%;
     transform: rotate(30deg);
-    bottom: 15%; 
+    bottom: 14.8%; 
     left: 4.4%; 
     position: absolute;
     Z-INDEX: 3;
@@ -137,7 +137,7 @@ body{
     height: 14.93%; 
     bottom: 26.39%; 
     position: absolute;
-    left: 6.75%;
+    left: 6.6%;
     border-radius: 50px 50px 0 0;
 }
 .blue-dot {
