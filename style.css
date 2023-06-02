@@ -1,5 +1,4 @@
 body{
-    /* position: relative; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,8 +20,6 @@ body{
     position: absolute;
     z-index: 1;
 }
-
-
 .first {
     left: 40%; 
     top: 21.64%; 
